@@ -1,7 +1,10 @@
 # depslib dependency file v1.0
-1614623591 source:/ctrain/game/main.cpp
-	<SFML/Graphics.hpp>
+1614634969 source:/ctrain/game/main.cpp
 	<iostream>
+	<SFML/Graphics.hpp>
+	<string>
+	"map.h"
+	"view.h"
 
 1539885013 /ctrain/SFML-2.5.1-linux-gcc-64-bit/SFML-2.5.1/include/SFML/Graphics.hpp
 	<SFML/Window.hpp>
@@ -411,4 +414,10 @@
 	<SFML/Graphics/PrimitiveType.hpp>
 	<SFML/Graphics/Drawable.hpp>
 	<SFML/Window/GlResource.hpp>
+
+1614632894 /ctrain/game/map.h
+	<SFML/Graphics.hpp>
+
+1614635109 /ctrain/game/view.h
+	<SFML/Graphics.hpp>
 
